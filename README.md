@@ -5,13 +5,15 @@ https://www.good-display.com/product/533.html
 
 
 
-Web server with image creation page, REST API for upload images © 2024 DenSyo (den@syo.su)
+Web server with image creation page, REST API for upload images © 2025 DenSyo (den@syo.su)
+
 
 
 
 Using esp32 by Espressif Systems boards package
 
 https://github.com/espressif/arduino-esp32
+
 
 
 
